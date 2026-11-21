@@ -1,0 +1,2164 @@
+{
+ "work": "旅愁",
+ "work_id": "naitou-shinsaku-904814",
+ "repo": "kumoi-no-fumigura/naitou-shinsaku-904814",
+ "yomi": "りょしゅう",
+ "category": "近代歌集",
+ "kind": "prose",
+ "description": {
+  "kind": "近代歌集",
+  "era": "大正時代",
+  "author": "内藤鋠策",
+  "desc": "内藤鋠策の歌集（1913 年刊）。"
+ },
+ "editions": [
+  {
+   "pid": "904814",
+   "title": "旅愁",
+   "editor": "内藤鋠策 著",
+   "series": "",
+   "publisher": "抒情詩社",
+   "year": 1913,
+   "pages": "コマ 10〜142",
+   "url": "https://dl.ndl.go.jp/pid/904814",
+   "label": "1913 抒情詩社",
+   "note": "国立国会図書館の全文テキスト（OCR）のまま"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "naitou-shinsaku-904814-0001",
+   "pid": "904814",
+   "pages": [
+    10
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "筆丁い步¥4",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0002",
+   "pid": "904814",
+   "pages": [
+    11
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ロ卷上愁旅かげのみ映りぬるかな人を見の寂しき眸には秋花の白き雨に慣れし家のこひしきほととぎす、胡桃若葉の岡つづき小13め",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0003",
+   "pid": "904814",
+   "pages": [
+    12
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M上愁旅卷ば行くべし、人待ちてゐむ靜なるうら枯草のうへふみて行か人を見るなり秋風の家鳩喚べば鳩はやさしくさびしげに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0004",
+   "pid": "904814",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁族うつむきてとみに心のおとろへをおもふ人あり夜の雨ぞする",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0005",
+   "pid": "904814",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅掌の冷からずや、人妻となりたる君ロてのひらも睡る春の夜に",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0006",
+   "pid": "904814",
+   "pages": [
+    15
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "開■1卷上愁旅上にゆきかへりつつ物を見る明き心こともなく靑葉の水のほとりのもののあかるさ森の葉に陽の射すあはれさ、靜なる21あかる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0007",
+   "pid": "904814",
+   "pages": [
+    16
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅M上に白くながれぬの夜の靜心なし月光の纖葉よ、密に亥のびよる微風なきぬるる靑葉の心、月光は靑葉のロ卷上□□ほそはひそ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0008",
+   "pid": "904814",
+   "pages": [
+    17
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅はるかなるうす藍色の地平よりわが母のこゑかよひくるかなMCM1□上*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0009",
+   "pid": "904814",
+   "pages": [
+    18
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MC理卷上愁旅樹間に白みそめけりこの芹の花の如くさみしく、明方の海は灰色の悲哀、空へ眼もはるに啼つれわたる海の上より27□まかなしみ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0010",
+   "pid": "904814",
+   "pages": [
+    19
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅衰める戀人よ、いましが蒼ざめし涙の前に葉はそよぐなり□かなし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0011",
+   "pid": "904814",
+   "pages": [
+    20
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅音に酸漿は鳴るほほづき心なく女の唇にささへられ寂しきくち*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0012",
+   "pid": "904814",
+   "pages": [
+    21
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁族夜はなびきわたりぬわが腮に、林のうへに、水よりも冷く夕は樹樹を繞りけるかないつしかに匂のごとくやはらかに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0013",
+   "pid": "904814",
+   "pages": [
+    22
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅物怖ぢたまひあはれになりけり久にしてあへれば母のいわけなく都さびしく花のちるなりはるばると母のみとりに急ぐ日の",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0014",
+   "pid": "904814",
+   "pages": [
+    23
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅上卷川ひとすぢたえずながるる故郷のふるさと薄暮ばかり寂しきはなし夜の〓にひそかに物を投げゆきしあはれの者を惡まざるべし37たそがれMにく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0015",
+   "pid": "904814",
+   "pages": [
+    24
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅MCM寂しき雪のふるさとを出づひとすぢの川のみ黑くながれたる□□",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0016",
+   "pid": "904814",
+   "pages": [
+    25
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅がへり遠き女を戀はしむ終日樹に廣き葉のひるがへりひるさびしく汝をおもひうかべぬひとつぶの眞珠の如く、なつかしくいちにちうち",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0017",
+   "pid": "904814",
+   "pages": [
+    26
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MM卷上愁旅夕さりくれば戶外へあゆめり我のわれを玄みじみ思ふ寂しさに今宵は汝のぬれて佇つらむたおちかかる夜の空氣にいちじるくご",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0018",
+   "pid": "904814",
+   "pages": [
+    27
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁族りはかなく汝のいつかへりけむほの光るピンのひとつのおきてあこの薄暮の部屋にかへり來ぬたそがれピンの眸の玄づかにひかる總際の45",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0019",
+   "pid": "904814",
+   "pages": [
+    28
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅MC□ゆれば、わが、うとうと睡しかな(病黑髪をきりてはれし悲哀かなしみほといつとなく海酸漿の鳴る音のきことぎす、ある夜汝のみつからのいまし中47ね",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0020",
+   "pid": "904814",
+   "pages": [
+    29
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "C小鳥らの死態は見ゆしに薄靑き靄の夜明のそことなくかのあをし戶外は靄のふりいでしかなほろろほろろ雉子啼きてはやうす49ざま",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0021",
+   "pid": "904814",
+   "pages": [
+    30
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅卷上ロMC□林の玄づくの音かな靄だちてやうやく朝の薄靑き竹のおともなく鴉は樹より樹へうつる羽の鴉さびしかりけり51",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0022",
+   "pid": "904814",
+   "pages": [
+    31
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "上愁旅卷Mかの一群の小鳥はなつかしたそがれとなれば林になきに來るのすがたうら寂しけれ何よりも榛の梢のあらはなる小鳥53",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0023",
+   "pid": "904814",
+   "pages": [
+    32
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M卷上愁旅ゆく時いでて步みき保險會社薄靑くかの濠端にけぶりの何故かくは寂しかるらむふとしてわが肩におきたる友の手",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0024",
+   "pid": "904814",
+   "pages": [
+    33
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅この寂しさを足下にするたそがれの山路の萱のなびくらむあしもき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0025",
+   "pid": "904814",
+   "pages": [
+    34
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "C□□卷上愁旅跡のさびしき夜明蜩のかなかなうす曇るランプのほやの哀しけれかなかなの啼く夜明の机啼出でてわが書殘のインキのかきさし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0026",
+   "pid": "904814",
+   "pages": [
+    35
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅M林の外の赤き夕陽やるせなくかなかなの啼交しけりしわが眼の前のつめたきガラス戶やうやく、かなかなの遠くなきかは61し,ひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0027",
+   "pid": "904814",
+   "pages": [
+    36
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅待合の晝のさびしく、杯の手にやる體とせなきかごのこほろぎ靈、晝次第次第果實のごとく腐れゆく肉くだこののこほろぎ63",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0028",
+   "pid": "904814",
+   "pages": [
+    37
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旅り杯の酒冷えてさみしき玄んみりと隣家は瓦斯のともりければ杯の酒、やはり寂しき見てあればかごのこほろぎ、見てあ65",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0029",
+   "pid": "904814",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "C卷上愁旅狂ひしにや狂ひしにや、秋の夜の汽のごと玄のび出し旅秋の夜の物靜なる東京をぬすびと車にさびしく眼を閉づるかなきらが",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0030",
+   "pid": "904814",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "上愁旅卷しのはるばると汝にあひにゆく如し微行の汽車の夜はあけにけりこの我のここの旅館のひとびとに見知らるることの何ぞはかなき69びなに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0031",
+   "pid": "904814",
+   "pages": [
+    40
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "X卷上愁旅放たれて啼く、思へば哀しこのすずむし北魚沼のかたすみに上にあるを誰か知るべきこの秋の日、はじめて我の魚沼の車71",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0032",
+   "pid": "904814",
+   "pages": [
+    41
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅石油のにほひうすらはかなしまちわぶる秋の旅館のうすやみに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0033",
+   "pid": "904814",
+   "pages": [
+    42
+   ],
+   "no": null,
+   "maki": "上巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷上愁旅開はさびしや、ひとつの蜻蛉枯草のうすらあかりに蜻蛉のとぶ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0034",
+   "pid": "904814",
+   "pages": [
+    43
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "□卷上愁旅금촌松山下巻",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0035",
+   "pid": "904814",
+   "pages": [
+    44
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "女よ、いましの神經質はかひがらにしんじゆ失せぬ眞珠の如し、手をとる旅□愁下卷夕ざればいかに寂しくこのさきのよつかどを汝のいそぎゆくらむ79",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0036",
+   "pid": "904814",
+   "pages": [
+    45
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "CM卷下愁旅知人をまたつくらむとするゑばし經て我のうしろに指すべきりふしの汝に見ればさびしき小禽の人にさからふくちばしをを81しりびとゆびさとり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0037",
+   "pid": "904814",
+   "pages": [
+    46
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅に何に狂ひてなげくぞや草の實のとぶよりもなほはかなげのたましひのあはれさいつ知らずわが掌にてのひらおちきたる女きちか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0038",
+   "pid": "904814",
+   "pages": [
+    47
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅性のたふとかりけりさが品物よりも正しくつくられし女のつからも生きむとするらし-莖の草花の如きさびしさに汝み",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0039",
+   "pid": "904814",
+   "pages": [
+    48
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ける如し陽の聰によるかなこのごろの不運はすべて汝より來やあぢきなきこの我のねざめかなつひに慘なる女のために奪られし87みじめ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0040",
+   "pid": "904814",
+   "pages": [
+    49
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅互に組みし指、眞面目なる指、たんぽぬこの病人の交す春の手母たちにおくられて門をいてで來ぽの花瓣の黃なる夕陽ひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0041",
+   "pid": "904814",
+   "pages": [
+    50
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M卷下愁旅の病人はあはれなりけり見かはして互に咳をいたはればこたまり水つとこゆる時思はず手をかはしけり、芹の蔭なる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0042",
+   "pid": "904814",
+   "pages": [
+    51
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅われゆゑ父のこころに逆ふといひするはかなさのいかにつづかむおもひいでてなれ自をまもらむといでなばわれいかがなるらむみづから",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0043",
+   "pid": "904814",
+   "pages": [
+    52
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅にあり、女のさびしき生命銀箔のうすらつめたさいま我の唇くちむき朝なりき、女の哀しき黑眸坐るか坐らぬに涙ぐみし黑眸、雨さくろめ95",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0044",
+   "pid": "904814",
+   "pages": [
+    53
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ロ卷愁旅第一眞に、今日、汝はここに至りしなりまことに尊からむ、女よ、いま、無言であれ我の有つひとつの製品と見ばいかのKISSを我に贈るべく生きて97",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0045",
+   "pid": "904814",
+   "pages": [
+    54
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅こそは忌しきものなれ女よ眼をそらせ、貧しく尖れる神經無言は愛すべければなりわれ、汝のいましKISSを欲す、何よりもその99",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0046",
+   "pid": "904814",
+   "pages": [
+    55
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅女といふ信念を授けし汝の、おぼつかなきこの肉體に神は",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0047",
+   "pid": "904814",
+   "pages": [
+    56
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "CMX愁旅汝になほひとつの秘密をたやすくおきて別れしを恨とするさびしきはさびしきは靑葉の五月まことに女一人のために過ちしか103",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0048",
+   "pid": "904814",
+   "pages": [
+    57
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅は草花の前にうちすはるかな自殺を、また汝をおもふことなく夜",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0049",
+   "pid": "904814",
+   "pages": [
+    58
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅かの次の室に汝は臥すらむかの草花うらがれていかに殘らむこのごろ汝のおとろへしかやわれゆゑの不孝を母のゆるすまで107まなれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0050",
+   "pid": "904814",
+   "pages": [
+    59
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "C卷愁旅りて無言にかへしやりけむあひがたき第一日を、かの雨の朝知",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0051",
+   "pid": "904814",
+   "pages": [
+    60
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅か、笑ふべきか、夏の夜の戶外の立聞不意に汝の部屋に躍入り、泣くべきかに消ぬべかりけり立聞の額を照し、夏の夜の星は玄づいまし",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0052",
+   "pid": "904814",
+   "pages": [
+    61
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅きあひに出して會はば會ふべし何か非凡なる犯罪を爲し、彼女をひかれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0053",
+   "pid": "904814",
+   "pages": [
+    62
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MG卷下愁旅の生涯の如し復讐に生き、復讐に死す、まことに我がれゆきけり、かかる戀しさ睡るままにわれの黑眸あとなくな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0054",
+   "pid": "904814",
+   "pages": [
+    63
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅玄づけさは煙の如く樹のかげのちよ、冬の林を玄みじみとゆく知人はみなかげろふの如く死失せ;りしける中のさくらの落葉ひと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0055",
+   "pid": "904814",
+   "pages": [
+    64
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "C卷下愁旅ま死にゆかば、われ、いづちゆくらむ舟の如く搖るる體をいかにせむ、い□からだ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0056",
+   "pid": "904814",
+   "pages": [
+    65
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅梢の冬の夕風の中に小鳥がみな鳩ほどに見ゆ、やや遠き身に添はず室に陽を浴びて伏す眼の前にせまる哀しきいさくさも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0057",
+   "pid": "904814",
+   "pages": [
+    66
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅Mロ空は無事に臨むなり五月來る、苦痛に集る若者のうへ、蒼",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0058",
+   "pid": "904814",
+   "pages": [
+    67
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M卷下愁旅敷にわれら交す杯午後、あかるき楓林の「とよもと」の座わけてこの寂しき薄たそ暮がれほのゑひぬ楓林の「とよもと」のとり125",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0059",
+   "pid": "904814",
+   "pages": [
+    68
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅か彼女もまた、この八重子の如く幼くればこの女らもあはれなるかなして賢しかりけむ、寂しき八重子よさかおとなしく命令のままにはたらけいひつけ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0060",
+   "pid": "904814",
+   "pages": [
+    69
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅らにさみしらに、幾日まちけむ汝は、柱によりてさみしらに、さみしきち狂人といふより他なし、さもあらばあれ眼のまへの菜の花がひほか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0061",
+   "pid": "904814",
+   "pages": [
+    70
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅涙ながしてありしあさはかひそかに、このノオトの文字に汝のとり苦き酒くむ蛙啼く楓林の「とよもと」の座敷にひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0062",
+   "pid": "904814",
+   "pages": [
+    71
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅とり楓の庭のさびしさ小鳥の行爲は眼前にあらはなり、ひつかしくこそうちまもるなれ今。我何よりもかの小鳥の行爲をなおこなひめのまへ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0063",
+   "pid": "904814",
+   "pages": [
+    72
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅し、女よ、薄暮の黃なる山吹ふともたれしここの柱もうらさび虫の肌蒼きたそがれ糸ひきて樹蔭に垂るる虫あり、そのか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0064",
+   "pid": "904814",
+   "pages": [
+    73
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "6卷愁旅の脈搏に耳をかす夜の海の燐光を空想し、獨、睡眠の前ロ下ひと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0065",
+   "pid": "904814",
+   "pages": [
+    74
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "C卷下愁旅底黄の〓薇を愛する女よ、いま、われひそか密に密にのぞける黑眸めらの終のをはり眞實とやるせなき自覺のかげより運命を語るまなざし139ロロてい3つはらくろ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0066",
+   "pid": "904814",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ず底黃の薔薇にうつつをぬかす戀人は死ぬばかりなる愛をねがは間の前にささぐる事實かの惡き口の下より、明日といふ時にく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0067",
+   "pid": "904814",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅る快走船と、蒼空と、赤き太陽3うちむかふ胸は海峽、かの眞面目なス戶のかげに汝は睡る月光は腮に來り、若葉にそそぎ、ガラツ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0068",
+   "pid": "904814",
+   "pages": [
+    77
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁族瓦斯の火の前にひらくいちはつ汝の指尖のミシンの上に動くとき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0069",
+   "pid": "904814",
+   "pages": [
+    78
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ものは我と汝のみ、物音もなし兒猫:よ、この夕ぐれの部屋に生くるゆふぐれの部屋にひとり坐れるさみしさを兒猫の眸が訴ふる如しめ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0070",
+   "pid": "904814",
+   "pages": [
+    79
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "拳下愁旅に睡る、われ、愉快:なる放浪の追憶に夕ぐれは〓に〓のびよる、兒猫は膝耽りてあり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0071",
+   "pid": "904814",
+   "pages": [
+    80
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅。に物音もなし、夕ぐれとなる平和なる兒猫は膝に睡り、廣き:家內",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0072",
+   "pid": "904814",
+   "pages": [
+    81
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "幾下愁蓐眸は夕ぐれのガラス戶を凝視つ兒猫よ、いま、何に耳をかす、さかしきむ、我の膝よりしてみ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0073",
+   "pid": "904814",
+   "pages": [
+    82
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅思ふらむ、兒猫よ、この貧しき主人のうちまもりうちまもりつついかが夕ぐれの眸を",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0074",
+   "pid": "904814",
+   "pages": [
+    83
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅さもて、わが、空想の前に靑む夏:の夜かの、オランダのギヤマンのゑづけ血を潮し來り明けし夏の[夜うち見れば森の底よりうすうすと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0075",
+   "pid": "904814",
+   "pages": [
+    84
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ロの御容態書をよみてかへりけりひそやかに人のうしろゆ、みちばた聖上、病重らせ給ふ*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0076",
+   "pid": "904814",
+   "pages": [
+    85
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ロれ蠶よりさびしく室にこもらむありとある事業をすてて今日はわ聖上、崩御あらせらるごと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0077",
+   "pid": "904814",
+   "pages": [
+    86
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅は私兒生の、眞に私生兒の幸福なれつひにわれかへらざるべし、汝こそ川は永遠にきよらかならむ兒と共に、女よ、身を投ずべくかの山",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0078",
+   "pid": "904814",
+   "pages": [
+    87
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅む、死にてうまれよ從順の母は汝を神の兒の如く思は*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0079",
+   "pid": "904814",
+   "pages": [
+    88
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "C卷下愁旅このままになほ少し睡らむ汝の手紙にわけなく涙ながれたり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0080",
+   "pid": "904814",
+   "pages": [
+    89
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "第C卷愁旅はれうつし世の別なりしかなかの北魚沼の朝霧にわかれしぬあさる五月すゑ死にゆきしとぞ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0081",
+   "pid": "904814",
+   "pages": [
+    90
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "0Cロらむ、北魚沼はかねてさみしき兒と、死ゆきしその母とにいかがありえでとはに死ゆきしかやまことにわれの心のかなしみは知しに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0082",
+   "pid": "904814",
+   "pages": [
+    91
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ききつつ終の眼をふたぎけむかの夜半の旅館にききし瀨の音を原にや死にもゆきけむ薄なほ若く鈴虫はなくらむ、かの河173ひ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0083",
+   "pid": "904814",
+   "pages": [
+    92
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅らむ、ひときは世のさびしかりけり樹芽の如くすこやかに兒はそだつのれ、死ゆきし女なればたふとししにこの薄暮の身のやるせなさ、何はあわ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0084",
+   "pid": "904814",
+   "pages": [
+    93
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅MC□をまちし石の河原と微びける秋の旅館と太陽の落つるしのは蒼ざめてけむ山は、川は、秋立てば北魚沼に汝の墓",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0085",
+   "pid": "904814",
+   "pages": [
+    94
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅まちわびてきくちちろ、すずむし夕されば若きすすきのかげに來てづくききしちちろ、すずむし魚沼の石の河原にわが佇ちてつくた",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0086",
+   "pid": "904814",
+   "pages": [
+    95
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "下愁旅卷はやうす靑し、山の月出づ啼交すちちろ、すずむし、うち見ればみな水上に月出づるなり群の靑すすきたそがれゆき、今かかみ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0087",
+   "pid": "904814",
+   "pages": [
+    96
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M卷下愁旅とるか、はや、ぬれてなくらむ見せばやな川の靑石、わが妻は手に川に來てひとりあそべば川の石死よりなつかし、石ひろはまし183",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0088",
+   "pid": "904814",
+   "pages": [
+    97
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MX卷下愁旅が失せし女の後かげ、靑き月草をふめば足もとのうすら寂し、わ*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0089",
+   "pid": "904814",
+   "pages": [
+    98
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "旅卷下愁ロのわかれもうつる杯わが友はゆめな知りそね魚沼の霧魚沼の蒼空も見ゆ手にとれば杯の中、汝の墓も見ゆ、北",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0090",
+   "pid": "904814",
+   "pages": [
+    99
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M卷愁旅とひとりわかれする見ゆうら見れば夜半の杯、霧寒みひとり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0091",
+   "pid": "904814",
+   "pages": [
+    100
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ロ卷下愁旅",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0092",
+   "pid": "904814",
+   "pages": [
+    101
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MCMXみぞおちにひびき啼出でてけり馬追、馬追、家內の留守のよひやみの*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0093",
+   "pid": "904814",
+   "pages": [
+    102
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅布きし、ランプのニツケルをつつむ黑き見てあれば眉間がいたし、眼がいた片れ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0094",
+   "pid": "904814",
+   "pages": [
+    103
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅a蘭CM1。り、うら若き妻はいつか睡入りぬただひとつの蟋蜂が夜を啼明すなしきかな、夜半のこほろぎかずかずわがとげし犯罪のいたま",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0095",
+   "pid": "904814",
+   "pages": [
+    104
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅きるなり、かかる夜は戀しき母と妻あらし、あらしそれでも蟋蟀が啼しらしとなりし夜半のこほろぎ隣室に眼ざむる妻もうらさびしあ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0096",
+   "pid": "904814",
+   "pages": [
+    105
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅し、慌し、夜半をあらしする玄ゆろの葉が裂け裂けて泣けり、悲もなし、ふきすさむ夜あらしわがつつみかくす何物もなし何物",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0097",
+   "pid": "904814",
+   "pages": [
+    106
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅し幼兒のごとうち遊びけるいつとなくほのゑひ來れば手を交橫山作次郞氏を悼む",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0098",
+   "pid": "904814",
+   "pages": [
+    107
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅に根ざすを見ればさびしき鏡わが鬚のひとつひとつがわが皮膚つひとつが呼吸する見ゆ秋の夜の鏡をとればわが鬚のひと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0099",
+   "pid": "904814",
+   "pages": [
+    108
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅小鳥さびしきは秋山梔の赤き實にふる日光を啄むはかや、檻の猿啼く晝玄らじらと草生にそそぐ日光は秋ましら",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0100",
+   "pid": "904814",
+   "pages": [
+    109
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "下愁旅卷CXは、妻はうれはしけじめわかずも聽入れば聽入れば夜半のかげろふをききつや、妻は、夜半の瓦斯の下たえまなく障子にきざむかげろふ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0101",
+   "pid": "904814",
+   "pages": [
+    110
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "X〓卷下愁旅らの蒼き實にふれ秋風ふくややのびしあごひげにふれかたはの叢は蛇を生むらむ秋風にうす靑き實のゆるるなり、こ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0102",
+   "pid": "904814",
+   "pages": [
+    111
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅するたくらみを知るよしもなし妻は部屋の鏡がわれをうばはむとる冬の朝の部屋大なる鏡をすゑてその前に起居す",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0103",
+   "pid": "904814",
+   "pages": [
+    112
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅兒と、われと、秋の日の下この掌ぢつと握らば泣くべきか、幼MXロ0*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0104",
+   "pid": "904814",
+   "pages": [
+    113
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅C||潮、瑪瑙の如し瑪瑙の如し灯にすかせば白紙にかはくわが血ぶればおちてかはく血潮冬の夜半を、白紙の上、わが指の肌や231",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0105",
+   "pid": "904814",
+   "pages": [
+    114
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そめしならむ、朝の汽笛うちわたす越の山べは白雪のふりロMCMXロ0卷下愁旅幼き記臆の中より",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0106",
+   "pid": "904814",
+   "pages": [
+    115
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅Cしさに、朝はさめいでしかな柘榴の實掌にのせつめたさに、うれ戶を入りし母、その手の柘榴いただきに初雪見ゆとあかつきの",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0107",
+   "pid": "904814",
+   "pages": [
+    116
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅赤き柘榴、霜の著きかとりわけて小きがひとつ、樹の梢に卷下〓MMX□13ふんな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0108",
+   "pid": "904814",
+   "pages": [
+    117
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅やすげなる櫻の梢わが庭の櫻の梢、冬來れば何ぞうらかの高き半鐘の上にひろごれる冬の蒼空はいかに遠きかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0109",
+   "pid": "904814",
+   "pages": [
+    118
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ろぐろくまを作りたるかな秋の日は庭の小石のかげに來てく*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0110",
+   "pid": "904814",
+   "pages": [
+    119
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅Cば音する冬の朝かなわが手もて兒猫の頸の銀の鈴ふれくるくる肥えて冬に入りけり陽は腮に、部屋にくまなしわが兒猫",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0111",
+   "pid": "904814",
+   "pages": [
+    120
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "CN卷下愁旅をはひまはるより、哀し、草に伏す烟草すへば烟草のけむり枯草の中るなり、冬の陽の街まつすぐに行けばまつすぐに行け",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0112",
+   "pid": "904814",
+   "pages": [
+    121
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅なるにかつ醉ひはてにけむ組交したる友の腕のやはらかく大醉ひはてて公園をかへり來にけり友の眸に夜半の蒼空が見ゆるとぞ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0113",
+   "pid": "904814",
+   "pages": [
+    122
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MC卷下愁旅かぎりなく女をかなしましめむか友と議論してかへる冬の夜に〓□〓*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0114",
+   "pid": "904814",
+   "pages": [
+    123
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅抱きてこの夜平和なり大なる瀨戶の火鉢をかい抱きかい*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0115",
+   "pid": "904814",
+   "pages": [
+    124
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅友の體のうへ、近く海がなるからだいつかわれまろびふしけむ重態のみ海はつれなかりけりかへれば友の病體、みかへれば海253",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0116",
+   "pid": "904814",
+   "pages": [
+    125
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅Xはててけりうすひかる海の面をみつむるにた泣くにも泣かれず、この病人のやせへず、かたへの友はやせてけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0117",
+   "pid": "904814",
+   "pages": [
+    126
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅C人のくちは兒雀に似き口あけて兒雀のごとく餌をとる病かはりはてしこの病人にむけむにはあまりさびしきわれの後かなつしろ257",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0118",
+   "pid": "904814",
+   "pages": [
+    127
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "愁旅は友よ病は幸なるべし(七首.友御白に)いたはられいたはられ若く死ゆくしに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0119",
+   "pid": "904814",
+   "pages": [
+    128
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "CMX=卷下愁旅とわが踏む地がゆれてわりなし枝をひけば樹の幹が搖れ、くらくら00",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0120",
+   "pid": "904814",
+   "pages": [
+    129
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MCM卷下愁旅月光の箔を作ることに我は日ごととに哀しけれに力むるなり、月光の箔こそはまこつとロげつくわうのべ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0121",
+   "pid": "904814",
+   "pages": [
+    130
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅玉乘の女の眼のギりの如くさびしくは寂し、まことに議論の後のひとヤマンのかがや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0122",
+   "pid": "904814",
+   "pages": [
+    131
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅をはり終を見るべき、そは、母親の生命とともに哀しきいつの日か、われの事業にひとつのごと*し",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0123",
+   "pid": "904814",
+   "pages": [
+    132
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅Cは海の如し、めのまへの冬の夜半友の鼻柱は鑛の如し、議論の後の卓やじ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0124",
+   "pid": "904814",
+   "pages": [
+    133
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ひつたりとつきて動かず、友の睡顏ガラス戶には冬の夜半の黑い手が*",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0125",
+   "pid": "904814",
+   "pages": [
+    134
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅幼き日の玩具のびやぼんの音ぞ戀はしき、さむうい冬の夜半のめざめに0下MCM口もちや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0126",
+   "pid": "904814",
+   "pages": [
+    135
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷愁旅旅館の夜半のちさき手机わが母のはぐろにまして哀しきは",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0127",
+   "pid": "904814",
+   "pages": [
+    136
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅!!!D五位鷺が啼過ぐるなり、釘うつ如くに、まつ暗な夜空に、かかる時胸にありし手",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0128",
+   "pid": "904814",
+   "pages": [
+    137
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M卷下愁旅五位鷺なく夜は褥の上に死人の如くのぼれりしきや、凛とした冬の朝の心にいかにいかに、汝がねすがたのさもよる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0129",
+   "pid": "904814",
+   "pages": [
+    138
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅それではない火の海を見ろ海を見ろ海を見ろ、私の指したのは",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0130",
+   "pid": "904814",
+   "pages": [
+    139
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "卷下愁旅ふあかしありや、夜の海きや、げに、海は、われらを奪らずとい不意に、海は、われらを奪ることはなと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0131",
+   "pid": "904814",
+   "pages": [
+    140
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "M卷下愁えまなき滴の音汝らは、かの、たえまなき滴の音を聽かずや、ほのぼのと月はのぼりぬ、た",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "naitou-shinsaku-904814-0132",
+   "pid": "904814",
+   "pages": [
+    141
+   ],
+   "no": null,
+   "maki": "下巻",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "□りはを愁底○發大正二年四月十一日發行大正二年四月行版權所有所印刷者發著日印刷小石川區白山御殿町八番地行作者發抒長坂政之助內定價金力十五錢情牛込區竇筒明四十四番地小石川區自由御殿町八番地藤詩銀社策",
+   "sachu": "",
+   "poems": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "naitou-shinsaku-904814",
+  "work": "旅愁",
+  "yomi": "りょしゅう",
+  "category": "近代歌集",
+  "era": "大正時代",
+  "author": "内藤鋠策",
+  "kind": "prose",
+  "blocks": 132,
+  "chars": 6869,
+  "poems": 0,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-22",
+  "updated_at": "2026-11-22T04:08:15+09:00"
+ }
+}
